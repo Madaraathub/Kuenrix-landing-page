@@ -40,7 +40,7 @@ export const ProductsPage = () => {
           </div>
           <div className="pt-6 border-t border-slate-100 mt-6">
             <Link
-              to="/launchlegal"
+              to="https://kuenrix.gumroad.com/l/Launchlegal"
               className="inline-flex items-center justify-center w-full px-4 py-3 rounded-xl bg-slate-900 text-white font-semibold text-sm hover:bg-slate-800 transition-colors shadow-sm group"
             >
               <span>Learn More</span>
@@ -69,7 +69,7 @@ export const ProductsPage = () => {
           </div>
           <div className="pt-6 border-t border-slate-100 mt-6">
             <Link
-              to="/tiktok-shop-business-os"
+              to="https://kuenrix.gumroad.com/l/TikTok-Shop-Business-os"
               className="inline-flex items-center justify-center w-full px-4 py-3 rounded-xl bg-slate-900 text-white font-semibold text-sm hover:bg-slate-800 transition-colors shadow-sm group"
             >
               <span>Learn More</span>
